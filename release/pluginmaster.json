@@ -1,10 +1,10 @@
 [
   {
     "Author": "Aki, k-kz, ele-starshade, damolitionn, Taurenkey, Augporto, grimgal, Genesis-Nova, Tartarga",
-    "Name": "XIVSlothCombo",
+    "Name": "XSC",
     "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
     "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
-    "InternalName": "XIVSlothCombo",
+    "InternalName": "XSC",
     "AssemblyVersion": "3.0.18.8",
     "RepoUrl": "https://github.com/44451516/XIVSlothCombo/",
     "ApplicableVersion": "any",
@@ -13,11 +13,11 @@
     "ImageUrls": [
       "https://i.imgur.com/iEcxM81.png"
     ],
-    "DownloadLinkInstall": "https://github.com/44451516/XIVSlothCombo/raw/CN/release/latest.zip",
+    "DownloadLinkInstall": "https://github.com/Mauis407/XSC12/raw/CN/release/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/44451516/XIVSlothCombo/raw/CN/release/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/44451516/XIVSlothCombo/raw/CN/release/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Mauis407/XSC12/raw/CN/release/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Mauis407/XSC12/raw/CN/release/latest.zip",
     "DownloadCount": 0,
     "LastUpdated": "0"
   }
