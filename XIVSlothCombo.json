@@ -1,8 +1,8 @@
 [{
-    "Author": "ArchiTed",
+    "Author": "AT",
     "Name": "RS",
     "InternalName": "RS",
-    "Description": "Analyses PvE combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
+    "Description": "A",
     "ApplicableVersion": "any",
     "Tags": [
       "combat",
@@ -20,11 +20,11 @@
     "IconUrl": "https://raw.githubusercontent.com/ArchiDog1998/RotationSolver/main/Images/Logo.png",
     "Punchline": "Analyses PvE combat information every frame and finds the best action.",
     "AcceptsFeedback": true,
-    "AssemblyVersion": "3.3.1",
-    "Changelog": "3.3.1 (2023-10-30)\n\n\nBug Fixes\n\n* add territory condition. (53a2344)\n* add territory conditions. (de4ad60)\n* fixed target selection in target condition. (319753c)",
+    "AssemblyVersion": "3.46",
+    "Changelog": "3.46(2023-10-30)\n\n\nBug Fixes\n\n* add territory condition. (53a2344)\n* add territory conditions. (de4ad60)\n* fixed target selection in target condition. (319753c)",
     "DownloadCount": "18010",
     "LastUpdate": 1698678305,
     "RepoUrl": "https://github.com/ArchiDog1998/RotationSolver",
-    "DownloadLinkInstall": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v3.3.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v3.3.1/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Mauis407/XSC12/releases/download/tag/3.46.zip",
+    "DownloadLinkUpdate": "https://github.com/Mauis407/XSC12/releases/download/tag/3.46.zip"
   }]
