@@ -1,5 +1,4 @@
-[
-  {
+{
     "Author": "ArchiTed",
     "Name": "RS",
     "InternalName": "RS",
@@ -28,4 +27,4 @@
     "RepoUrl": "https://github.com/ArchiDog1998/RotationSolver",
     "DownloadLinkInstall": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v3.3.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v3.3.6/latest.zip"
-  },
+  }
