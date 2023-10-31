@@ -1,23 +1,31 @@
-    {
-        "Author": "Aki",
-        "Name": "XIVComboWayTooAkiiified",
-        "Punchline": "Edited XIVCombo for personal use",
-        "Description": "Lazy gamer xivcombo",
-        "InternalName": "XIVComboWayTooAkiiified",
-        "AssemblyVersion": "1.0.1.5",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "XIV",
-            "Combo",
-            "aki"
-        ],
-        "DalamudApiLevel": 4,
-        "IconUrl": "https://i.loli.net/2021/10/17/Cw52y7Si6AzXJmB.gif",
-        "DownloadLinkInstall": "https://github.com/Nik-Potokar/XIVComboWayTooAkiiified/releases/download/FFXIV/Latest.rar",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Nik-Potokar/XIVComboWayTooAkiiified/releases/download/FFXIV/Latest.rar",
-        "DownloadLinkUpdate": "https://github.com/Nik-Potokar/XIVComboWayTooAkiiified/releases/download/FFXIV/Latest.rar",
-        "DownloadCount": 0,
-        "LastUpdated": "1634400029"
-    },
+[
+  {
+    "Author": "ArchiTed",
+    "Name": "RS",
+    "InternalName": "RS",
+    "Description": "Analyses PvE combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "combat",
+      "rotation"
+    ],
+    "CategoryTags": [
+      "jobs"
+    ],
+    "DalamudApiLevel": 9,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IsTestingExclusive": false,
+    "IconUrl": "https://raw.githubusercontent.com/ArchiDog1998/RotationSolver/main/Images/Logo.png",
+    "Punchline": "Analyses PvE combat information every frame and finds the best action.",
+    "AcceptsFeedback": true,
+    "AssemblyVersion": "3.3.6",
+    "Changelog": "3.3.6 (2023-10-30)\n\n\nBug Fixes\n\n* add territory condition. (53a2344)\n* add territory conditions. (de4ad60)\n* fixed target selection in target condition. (319753c)",
+    "DownloadCount": "18010",
+    "LastUpdate": 1698678305,
+    "RepoUrl": "https://github.com/ArchiDog1998/RotationSolver",
+    "DownloadLinkInstall": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v3.3.6/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v3.3.6/latest.zip"
+  },
